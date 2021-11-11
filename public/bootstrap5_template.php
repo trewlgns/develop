@@ -60,7 +60,7 @@
     <main>
         <div class="container-fluid h-100">
             <div class="row h-100">
-                <div class="col-md-2">
+                <div class="d-none d-sm-none d-md-block col-md-2 col-lg-2 col-xl-2 col-xxl-2">
                     <!-- sidebar start -->
                     <div class="border-end bg-white" id="sidebar-wrapper">
                         <div class="sidebar-heading border-bottom bg-light p-3">Start Bootstrap</div>
@@ -82,7 +82,7 @@
                     </div>
                     <!-- sidebar end -->
                 </div>
-                <div class="col-md-10 p-5 h-100">
+                <div class="col-12 col-sm-12 col-md-10 col-lg-10 col-xl-10 col-xxl-10 p-4 h100">
                     <h2>title test</h2>
                     <hr>
                     <div class="row p-2 h-100">
